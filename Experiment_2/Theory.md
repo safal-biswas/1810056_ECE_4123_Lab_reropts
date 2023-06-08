@@ -2,7 +2,7 @@
 
 Convolution is a mathematical tool to combining two signals to form a third signal. Convolution of ___x(t)___ with ___h(t)___ , where __h(t) = T[δ(t)]__ is denoted by __x(t) * δ(t)__. Mathematical representation of convolution is:
 
->      x(t) = ∫x(τ)δ(t-τ)dτ
+>                             x(t) = ∫x(τ)δ(t-τ)dτ
 
 <br>
 
