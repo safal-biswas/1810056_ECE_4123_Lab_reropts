@@ -1,3 +1,13 @@
+# Experiment Name
+
+### i.	Auto & Cross Correlation of signals.
+### ii.	Process of finding out the Periodicity of the signal.
+
+
+<br><br>
+
+
+
 # Theory:
 
 Correlation is the relation or combined form of a signal & time shifted form of another signal. This relation may perform on a single signal, where one of them is time shifted from. Which is called __Autocorrelation__. Or in between two different signals. Which is called __Cross Correlation__. <br>
